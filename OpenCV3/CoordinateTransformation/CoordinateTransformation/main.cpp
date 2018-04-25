@@ -4,8 +4,8 @@
 //		开发测试所用操作系统：Windows 10 64bit
 //		开发测试所用IDE版本：Visual Studio 2017
 //		开发测试所用OpenCV版本：3.4.0
-//		2018年3月14日 Created by @ZHWKnightd
-//		2018年4月14日 Revised by @ZHWKnightd
+//		2018年3月14日 Created by @ZHWKnight
+//		2018年4月14日 Revised by @ZHWKnight
 //---------------------------------------------------------------------------------------------
 
 #include <opencv.hpp>
