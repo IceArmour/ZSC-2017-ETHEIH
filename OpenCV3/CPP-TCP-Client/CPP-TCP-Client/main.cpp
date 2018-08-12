@@ -1,3 +1,12 @@
+//--------------------------------------【程序说明】-------------------------------------------
+//		程序说明：第11次汇报 CPP-TCP-Client
+//		程序描述：建立TCP通信协议，作为客户端与VISOR进行通信
+//		开发测试所用操作系统：Windows 10 64bit
+//		开发测试所用IDE版本：Visual Studio 2017
+//		2018年8月9日 Created by @ZHWKnight
+//		2018年4月13日 Revised by @ZHWKnight
+//---------------------------------------------------------------------------------------------
+
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>

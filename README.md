@@ -2,7 +2,7 @@
 
 ## 总览
 
-本项目由学院老师牵头，参与人员是本科学生。采用了 OpenCV 视觉库进行开发，主要使用语言是 C++ 。
+本项目由学院老师牵头，参与人员是本科学生。采用了 OpenCV 视觉库进行开发，主要使用语言是 C/C++ 。
 
 使用工业相机配合现有的六轴机械手进行研究，涉及的相关技术有：
 - C++ 程序语言设计
@@ -41,6 +41,7 @@ ZSCEyeinHand@foxmail.com
 
 ## 更新列表
 v1.0 2018/04/16 Hello World!  
-v1.1 2018/04/17 新增指导教程  
-v1.2 2018/04/25 修改错别字，重新建库  
-v1.3 2018/08/09 TCP Socket
+v1.1 2018/04/17 Adding easy instruction  
+v1.2 2018/04/25 Rebuilt repositories  
+v1.3 2018/08/09 TCP socket programing  
+v1.4 2018/08/13 Moding old file  
